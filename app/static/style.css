@@ -1,0 +1,11 @@
+h1{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+}
+
+h3 a{
+    font-weight: 700;
+    color: brown;
+}
